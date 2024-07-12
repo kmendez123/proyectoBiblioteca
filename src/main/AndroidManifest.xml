@@ -13,6 +13,9 @@
         android:theme="@style/Theme.ProyectoBibliotca"
         tools:targetApi="31">
         <activity
+            android:name=".RegistroUser"
+            android:exported="false" />
+        <activity
             android:name=".prueba"
             android:exported="false" />
         <activity
